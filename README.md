@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GokhanKaradeniz
-- 👀 I’m interested in game and sowftware development.
-- 📫 How to reach me g@gokhan.biz
+- 👀 I’m interested in game/software development.
 
 <!---
 GokhanKaradeniz/GokhanKaradeniz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
